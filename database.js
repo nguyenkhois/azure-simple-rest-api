@@ -58,6 +58,12 @@ const productList = [
         name: 'Coco',
         price: '6.90',
         inStock: 57
+    },
+    {
+        id: 11,
+        name: 'Chili',
+        price: '9.90',
+        inStock: 107
     }
 ];
 
